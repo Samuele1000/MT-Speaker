@@ -1,0 +1,34 @@
+{
+  "name": "fivem-speakers-script",
+  "version": "1.0.0",
+  "description": "A simple speakers script for FiveM with a clean UI and music playback features.",
+  "main": "src/server/main.ts",
+  "scripts": {
+    "start": "ts-node src/server/main.ts",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "ox_target": "^1.0.0",
+    "qbx_core": "^1.0.0",
+    "ox_inventory": "^1.0.0",
+    "xsound": "^1.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "vite": "^2.6.4",
+    "mantine": "^3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "ts-node": "^10.4.0"
+  },
+  "keywords": [
+    "FiveM",
+    "speakers",
+    "music",
+    "react",
+    "typescript"
+  ],
+  "author": "The Sem",
+  "license": "MIT"
+}
