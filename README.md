@@ -19,7 +19,7 @@ The FiveM Speakers Script is a simple and efficient solution for playing music i
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/fivem-speakers-script.git
+   git clone https://github.com/samuele1000/fivem-speakers-script.git
    ```
 2. Navigate to the project directory:
    ```
