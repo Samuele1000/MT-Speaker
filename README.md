@@ -3,6 +3,8 @@
 ## Overview
 The FiveM Speakers Script is a simple and efficient solution for playing music in your FiveM server. It allows players to play songs from YouTube URLs, manage a music library, and control speaker access. The script features a clean and simple UI built with TypeScript, React, Vite, and Mantine.
 
+> **DISCLAIMER**: Based on Rockstar & CFX Terms of Service, the use of streaming content like youtube is not allowed, so it's totally your responsability to use this script!!
+
 ## Features
 - **Clean UI**: A user-friendly interface for easy interaction.
 - **YouTube Integration**: Play any song using a YouTube URL.
